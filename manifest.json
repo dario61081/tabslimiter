@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Límite de Pestañas",
+    "version": "1.0",
+    "description": "Limita el número de pestañas abiertas a un máximo de 6.",
+    "permissions": [
+      "tabs"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_title": "Gestor de pestañas"
+    },
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+}  

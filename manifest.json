@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Límite de Pestañas",
     "version": "1.0",
-    "description": "Limita el número de pestañas abiertas a un máximo de 6.",
+    "description": "Limita el número de pestañas abiertas a un máximo de 10.",
     "permissions": [
       "tabs"
     ],
